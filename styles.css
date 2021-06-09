@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	font-weight: bold;
+	color: #900;
+	font-size: 50px;
+	text-align: center;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.body_text {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+
+td {
+	text-align: center;
+	border: 1px solid #000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.keldeos2 {
+	background-color: #6EF;
+}
+.espeons2 {
+	background-color: #E8B;
+}
+.snorlaxes2 {
+	background-color: #D44;
+}
+.dhelmises2 {
+	background-color: #2A2;
+}
+.fans2 {
+	background-color: #FFFF33;
+}
+.torkoals2 {
+	background-color: #F93;
+}
+
+
+
+
+
+
+.keldeos {
+	background-color: #00CCFF;
+}
+.espeons {
+	background-color: #C3C;
+}
+.snorlaxes {
+	background-color: #911;
+}
+.dhelmises {
+	background-color: #373;
+}
+.fans {
+	background-color: #FFBC1A;
+}
+.torkoals {
+	background-color: #F60;
+}
+table {
+	border: medium solid #000;
+}
+th {
+	color: #FFF;
+	background-color: #000;
+	border: medium solid #000;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.last_updated {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+.center_align {
+	text-align: center;
+}
+
+
+.contact_info {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: small;
+	font-style: italic;
+}
+h2 {
+	font-size: 30px;
+	text-align: center;
+	color: #900;
+	font-weight: bold;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
